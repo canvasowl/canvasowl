@@ -8,7 +8,27 @@ I'm a Product-focused Full Stack Software Engineer with a proven track record in
 
 ## Technical Skills 🛠️
 
-**Software Dev Skills:** Node,JavaScript/ES6, React.js, TypeScript, Next.js, PHP, Laravel, Python, Prisma, Postgres, Mysql, Docker, HTML5 /CSS3/SCSS/TailwindCSS, 
+**Software Dev Skills:** 
+- Node
+- JavaScript/ES6
+- Typescript
+- React.js
+- Vuejs
+- Next.js
+- PHP
+- Laravel
+- Python
+- Prisma
+- Postgres
+- Mysql
+- Mongo
+- Redis
+- Graphql
+- Docker
+- HTML5 /CSS3/SCSS/
+- TailwindCSS 
 
-**Workflow Tools:** Git/GitHub/ JIRA, Agile Methodologies, Figma
-
+**Workflow Tools:** 
+- Git/GitHub/
+- JIRA - Shortcut
+- Agile Methodologies
