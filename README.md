@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Jefry
+# 👋 Hi! I'm Jefry
 
 I'm passionate about crafting software that adds value and impacts people in their every day lives in a positive way.
 
