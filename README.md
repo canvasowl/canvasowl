@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi! I'm Jefry
 
-<!--
-**canvasowl/canvasowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about crafting software that adds value and impacts people in their every day lives in a positive way.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Product-focused Full Stack Software Engineer with a proven track record in developing high-quality, scalable web solutions across various platforms and products. Wihin may career I have had the opportunity to lead multiple high performing engineering teams both domesticly and distributed across various companies, insuring the deliverance of high valued projects while advancing their careers. While away from work, I enjoy spending time with my two kids, building my own technology solutions and, discovering new music.
+
+## Technical Skills 🛠️
+
+**Software Dev Skills:** HTML5 /CSS3/SCSS/TailwindCSS, JavaScript/ES6, React.js, TypeScript, Next.js, PHP, Laravel, Python, Prisma, Postgres, Mysql, Docker
+
+**Workflow Tools:** Git/GitHub/ JIRA, Agile Methodologies, Figma
+
